@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<data popis="" kontakt="" verzia="2">
+	<firma>
+		<id/>
+		<ico/>
+		<dic/>
+		<icdph/>
+		<nazov1/>
+		<nazov2/>
+		<ulica/>
+		<ulica2/>
+		<psc/>
+		<obec/>
+		<stat/>
+		<kodstatu/>
+		<telefon/>
+		<mobil/>
+		<email/>
+	</firma>
+	<objednavka>
+		<typ/>
+		<cislo/>
+		<datum/>
+		<typceny/>
+		<poznamka/>
+	</objednavka>
+</data>
